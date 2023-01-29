@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <hr>
-<p align="center"><h3>Peace and love!</h3><p>
 <p align="center">
-<img src="vash-cross-fingers.gif" align="center" height="500" />
+<img src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif" align="center" height="500" />
 </p>
+
