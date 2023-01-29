@@ -20,6 +20,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kohiry)](https://github.com/ryo-ma/github-profile-trophy)
 
+<hr>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <p align="center">
 <img src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif" align="center" height="500" />
 </p>
