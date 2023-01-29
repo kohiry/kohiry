@@ -25,6 +25,6 @@
 | ------------- |:------------------:|
 
 <p align="center">
-<img src="https://media.tenor.com/iYL_TseFwQ4AAAAC/anime.gif" align="center" height="500" />
+<img src="https://media.tenor.com/WXW_X3-WyfwAAAAC/disappear-peace-out.gif" align="center" height="500" />
 </p>
 
