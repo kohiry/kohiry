@@ -7,7 +7,7 @@
 <img src="https://media.tenor.com/zDA4V-8xjMkAAAAC/love-eyes.gif" align="center" height="500" />
 </p>
 
-<tr>
+<hr>
 
 
 <p align="center"><h3>Peace and love!</h3><p>
