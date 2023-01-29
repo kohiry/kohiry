@@ -4,7 +4,7 @@
 <p align="center"> <h3> I am single dev, who want find my special way in IT! </h3></p>
 
 <p align="center">
-<img src="https://media.tenor.com/zDA4V-8xjMkAAAAC/love-eyes.gif" align="center" height="500" />
+<img src="https://media.tenor.com/68ogcT1aflwAAAAd/anime-i-dont-know.gif" align="center" height="500" />
 </p>
 
 <hr>
