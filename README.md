@@ -2,6 +2,7 @@
 <h1 align="center"> :innocent: Ave Mollan dear peps  :innocent: </h1>
 
 <h3 align="center"> I am single dev, who want find my special way in IT!  :wink: </h3>
+<h4 align="center"> my dream is to become an AI developer! </h4>
 
 <p align="center">
 <img src="https://media.tenor.com/ArV6RGIhAGkAAAAC/edgerunners-cyberpunk.gif" align="center" height="500" />
