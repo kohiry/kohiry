@@ -17,7 +17,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <hr>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
 <img src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif" align="center" height="500" />
 </p>
