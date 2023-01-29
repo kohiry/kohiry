@@ -1,14 +1,14 @@
 
-<p align="center"> <h1> Ave Mollan dear peps.</h1> </p>
+<h1 align="center"> :innocent: Ave Mollan dear peps  :innocent: </h1>
 
-<p align="center"> <h3> I am single dev, who want find my special way in IT! </h3></p>
+<h3 align="center"> I am single dev, who want find my special way in IT!  :wink: </h3>
 
 <p align="center">
 <img src="https://media.tenor.com/68ogcT1aflwAAAAd/anime-i-dont-know.gif" align="center" height="500" />
 </p>
 
 <hr>
-<p>Ḿ̟̦̹̻͎̯̜͕̣ͪͨ͒̃ͩ͛ͨ͠ÿ́͊͏̠̥̱̯͖ ̷͉̹̜͎̍̓̈͟ṯ̴̡̞̬̻̀͌e̵̟͎̖͉̦ͧ̂̆̄͢c̈́̀̃͒̎̀҉̪̦h̑ͪ̄҉̗̩̻͙̳̩̯̻̠͜ṋ̴̦̮͎̮̭̥ͤ̓̇o͚̙͉̰͂̐͌̅͆̆ͨ̒l̨̰̖̦̗̱͔͌ͮͨo̔͏͎͚̘͔̦̜͚͖g͕̙̹̫̍̓̄ͤ̽͌̽͢͡y̬̙͇̞͈͙̤̖̋ͤ͌̏:̮͉̦̹͇̌̌͐͠</p>
+<h3 align="center">My technology :sunglasses: </h3>
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -16,13 +16,16 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohiry)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
+<h3> :fire: Git Trophy </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kohiry)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kohiry)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohiry)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <img src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif" align="center" height="500" />
