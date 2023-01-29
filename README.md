@@ -11,5 +11,5 @@
 
 <p align="center">Peace and love!<p>
 <p align="center">
-![logo](vash-cross-fingers.gif)
+<img src="vash-cross-fingers.gif" align="center" height="200" />
 </p>
