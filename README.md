@@ -8,7 +8,7 @@
 </p>
 
 <hr>
-<p>My technology:</p>
+<p>Ḿ̟̦̹̻͎̯̜͕̣ͪͨ͒̃ͩ͛ͨ͠ÿ́͊͏̠̥̱̯͖ ̷͉̹̜͎̍̓̈͟ṯ̴̡̞̬̻̀͌e̵̟͎̖͉̦ͧ̂̆̄͢c̈́̀̃͒̎̀҉̪̦h̑ͪ̄҉̗̩̻͙̳̩̯̻̠͜ṋ̴̦̮͎̮̭̥ͤ̓̇o͚̙͉̰͂̐͌̅͆̆ͨ̒l̨̰̖̦̗̱͔͌ͮͨo̔͏͎͚̘͔̦̜͚͖g͕̙̹̫̍̓̄ͤ̽͌̽͢͡y̬̙͇̞͈͙̤̖̋ͤ͌̏:̮͉̦̹͇̌̌͐͠</p>
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
