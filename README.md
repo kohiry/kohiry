@@ -4,7 +4,7 @@
 <h3 align="center"> I am single dev, who want find my special way in IT!  :wink: </h3>
 
 <p align="center">
-<img src="https://media.tenor.com/j5748oCEaUsAAAAC/cyber-punk-cyberpunk-anime.gif" align="center" height="500" />
+<img src="https://media.tenor.com/ArV6RGIhAGkAAAAC/edgerunners-cyberpunk.gif" align="center" height="500" />
 </p>
 
 <hr>
