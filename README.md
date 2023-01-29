@@ -4,7 +4,7 @@
 <h3 align="center"> I am single dev, who want find my special way in IT!  :wink: </h3>
 
 <p align="center">
-<img src="https://media.tenor.com/68ogcT1aflwAAAAd/anime-i-dont-know.gif" align="center" height="500" />
+<img src="https://media.tenor.com/ERM8KVYgnroAAAAC/anime-evangelion.gif" align="center" height="500" />
 </p>
 
 <hr>
@@ -25,6 +25,6 @@
 | ------------- |:------------------:|
 
 <p align="center">
-<img src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif" align="center" height="500" />
+<img src="https://media.tenor.com/iYL_TseFwQ4AAAAC/anime.gif" align="center" height="500" />
 </p>
 
