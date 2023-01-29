@@ -5,7 +5,7 @@
 <h4 align="center"> my dream is to become an AI developer! </h4>
 
 <p align="center">
-<img src="https://media.tenor.com/ArV6RGIhAGkAAAAC/edgerunners-cyberpunk.gif" align="center" height="500" />
+<img src="https://media.tenor.com/ArV6RGIhAGkAAAAC/edgerunners-cyberpunk.gif" align="center" height="100%" />
 </p>
 
 <hr>
@@ -26,6 +26,6 @@
 | ------------- |:------------------:|
 
 <p align="center">
-<img src="https://media.tenor.com/WXW_X3-WyfwAAAAC/disappear-peace-out.gif" align="center" height="500" />
+<img src="https://media.tenor.com/WXW_X3-WyfwAAAAC/disappear-peace-out.gif" align="center" height="100%" />
 </p>
 
