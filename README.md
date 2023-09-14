@@ -1,4 +1,9 @@
-![REHeader](header.png)
+<!-- ![REHeader](header.png) -->
+<!-- <img src="https://github.com/kohiry/kohiry/raw/main/header.png" style="vertical-align:down; margin:4px" alt="Django"> -->
+<div style="text-align: center;">
+  <img src="header.png" alt="Header Image">
+</div>
+<hr>
 <br>
 <h3 align="left">I am working hard to get an offer from an IT company!<br>
 I use my git profile for my little pet projects.
