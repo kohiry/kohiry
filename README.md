@@ -1,8 +1,5 @@
-<!-- ![REHeader](header.png) -->
+![REHeader](header.png)
 <!-- <img src="https://github.com/kohiry/kohiry/raw/main/header.png" style="vertical-align:down; margin:4px" alt="Django"> -->
-<div style="text-align: center;">
-  <img src="header.png" alt="Header Image">
-</div>
 <hr>
 <br>
 <h3 align="left">I am working hard to get an offer from an IT company!<br>
@@ -14,6 +11,9 @@ I use my git profile for my little pet projects.
 <!-- <img src="https://github.com/kohiry/kohiry/raw/main/PostgreSQL.svg" height="60" style="vertical-align:down; margin:4px" alt="Postgre"> -->
 <!-- <img src="https://github.com/kohiry/kohiry/raw/main/Python.svg" height="60" style="vertical-align:down; margin:4px" alt="Python"> -->
 <!-- </p> -->
+
+
+<h4>My Stack</h4>
 
 ![python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
