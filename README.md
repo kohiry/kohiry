@@ -19,6 +19,6 @@ I use my git profile for my little pet projects.
 ![fastapi](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![EndeavourOS logo](https://endeavouros.com/wp-content/uploads/2019/07/cropped-cropped-endeavourOS-WALLS-4.png)
+![EndeavourOS logo](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kohiru?theme=dark&font=Rubik)
