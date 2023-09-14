@@ -1,6 +1,6 @@
 ![REHeader](header.png)
 <br>
-<h3 align="center">I am working hard to get an offer from an IT company!
+<h3 align="center">I am working hard to get an offer from an IT company!<br>
 I use my git profile for my little pet projects.
 </h3>
 <p>
