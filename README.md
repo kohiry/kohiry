@@ -1,7 +1,7 @@
 ![REHeader](header.png)
 <!-- <img src="https://github.com/kohiry/kohiry/raw/main/header.png" style="vertical-align:down; margin:4px" alt="Django"> -->
 <hr>
-<h3 align="left">I am working hard to get an offer from an IT company!<br>
+<h3 align="left">I am working hard to get an offer from an Big Tech company!<br>
 I use my git profile for my little pet projects.
 </h3>
 <!-- <p> -->
