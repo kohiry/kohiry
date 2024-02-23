@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://t.me/gerardso**
 
-- 📄 Know about my experiences [https://clck.ru/35AsgL](https://clck.ru/35AsgL)
+- 📄 Know about my experiences <in progress>
 
 - ⚡ Fun fact **I like read ranobe :^)**
 
