@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://t.me/gerardso**
 
-- 📄 Know about my experiences <in progress>
+<!-- - 📄 Know about my experiences <in progress> -->
 
 - ⚡ Fun fact **I forget sleep**
 
