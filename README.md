@@ -1,29 +1,36 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate backend python developer from Russian</h3>
+<h1 align="center">Hi 👋, I'm Max :^D</h1>
+<h3 align="center">I position myself as a software engineer</h3>
 
-- 🌱 I’m currently learning **Backend Architecture**
+- 🌱 I’m currently learning **FastAPI && Python**
 
-- 💬 Ask me about **Django, FastAPI, Flask**
+- 💬 Ask me about **FastAPI**
 
 - 📫 How to reach me **https://t.me/gerardso**
 
 - 📄 Know about my experiences <in progress>
 
-- ⚡ Fun fact **I like read ranobe :^)**
+- ⚡ Fun fact **I forget sleep**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
-<a href="https://www.leetcode.com/kohiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kohiru" height="30" width="40" /></a>
+<img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+<img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>  
+  <img align="center" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<ul>
-  <li><img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></li>
-  <li><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></li>
-  <li><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></li>
-  <li><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></li>
-</ul>
 
-
+<h3 align="left">OS</h3>
+<p align="left">
+<img align="center" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
+</p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kohiru?theme=dark&font=Rubik)
