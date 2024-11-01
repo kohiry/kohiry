@@ -18,6 +18,8 @@
 <img align="center" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Tron_Blockchain-EB0029?style=for-the-badge&logo=tron&logoColor=white"/>
+  
   
 <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/Loki-00A3E0?style=for-the-badge&logo=grafana&logoColor=white"/>
