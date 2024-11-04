@@ -25,10 +25,12 @@
 <img align="center" src="https://img.shields.io/badge/Loki-00A3E0?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Ton_Blockchain-0088CC?style=for-the-badge&logo=ton&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  
+  <img align="center" src="https://img.shields.io/badge/Aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>  
+  <img align="center" src="https://img.shields.io/badge/Starlette-292D3E?style=for-the-badge&logo=Starlette&logoColor=white"/>
   
+</p>
   
   
 
