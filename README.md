@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **FastAPI/Graphana/Dokploy**
 
-- 📫 How to reach me **https://t.me/gerardso**
+- 📫 How to reach me **https://t.me/gerardsoo**
 
 <!-- - 📄 Know about my experiences <in progress> -->
 
